@@ -47,13 +47,13 @@ A análise foi realizada para responder à pergunta: **Como os membros anuais e 
 
 ### Duração Média da Viagem por Tipo de Usuário
 
-![Gráfico de Duração da Viagem](link_da_imagem)
+![Gráfico de Duração da Viagem](https://github.com/augustoomb/An-lise-de-dados.-Estudo-de-Caso-Compartilhamento-de-Bicicletas-da-Cyclistic/blob/main/dura%C3%A7%C3%A3o%20m%C3%A9dia.png?raw=true)
 
 **Justificativa**: Este gráfico mostra claramente a diferença na duração média das viagens entre ciclistas casuais e membros anuais, o que ajuda a reforçar que os usuários casuais fazem viagens mais longas e esporádicas, enquanto os membros anuais utilizam as bicicletas para deslocamentos rápidos.
 
 ### Uso de Bicicletas por Dia da Semana
 
-![Gráfico de Uso por Dia da Semana](link_da_imagem)
+![Gráfico de Uso por Dia da Semana](https://github.com/augustoomb/An-lise-de-dados.-Estudo-de-Caso-Compartilhamento-de-Bicicletas-da-Cyclistic/blob/main/n%C3%BAmero%20de%20viagens%20por%20tipo%20de%20passageiro.png?raw=true)
 
 **Justificativa**: Esta visualização mostra a diferença de uso entre os dois grupos ao longo dos dias da semana, evidenciando que o pico de uso de ciclistas casuais é durante os finais de semana.
 
