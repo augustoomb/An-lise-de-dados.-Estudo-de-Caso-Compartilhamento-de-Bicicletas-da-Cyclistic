@@ -71,6 +71,14 @@ Com base nos insights extraídos dos dados, as seguintes recomendações são pr
 
 Este estudo mostrou diferenças significativas no comportamento de uso entre ciclistas casuais e membros anuais da Cyclistic. Essas diferenças podem ser utilizadas para criar campanhas direcionadas que incentivem ciclistas casuais a se tornarem membros anuais, aumentando a lucratividade da empresa.
 
+Script R:
+```r
+library(tidyverse)  #helps wrangle data
+library(lubridate)  #helps wrangle date attributes
+library(ggplot2)  #helps visualize data
+getwd() #exibe seu diretório de trabalho
+setwd("/home/augusto/Documentos/projeto-final-dados") #sets your working directory to
+
 ---
 
 **Autor**: Augusto Barbosa 
